@@ -5,7 +5,7 @@ A very simple project for getting entity passengers in multi-version Spigot plug
 
 You may be developing a Spigot plugin with support for multiple versions. You also need to get the passengers on an entity. However, no matter which version of Spigot you compile against, you receive compile errors. In 1.8, 1.9, and  1.10, the method is `Entity#getPassenger()` whereas in later versions it is `Entity#getPassengers()`. Notice the last *s*.
 
-This is a similar project to [https://github.com/Arim-Minecraft/LegacyItemStackConstructor](LegacyItemStackConstructor).
+This is a similar project to [LegacyItemStackConstructor](https://github.com/Arim-Minecraft/LegacyItemStackConstructor).
 
 ## The Solution
 
